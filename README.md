@@ -1,1 +1,3 @@
-TinDog Starting Files
+# TinDog responsive website
+A project from Udemy course.
+Built with Bootstrap.
